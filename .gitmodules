@@ -1,44 +1,44 @@
 [submodule "30739A0"]
 	path = cyw30739/repos/30739A0
-    url = https://github.com/Infineon/OT-Matter-30739A0.git
+    url = https://github.com/vuljector/OT-Matter-30739A0
 	branch = master
 [submodule "30739B2"]
 	path = cyw30739/repos/30739B2
-    url = https://github.com/Infineon/OT-Matter-30739B2.git
+    url = https://github.com/vuljector/OT-Matter-30739B2
 	branch = master
 [submodule "CYW30739B2-P5-EVK-01"]
 	path = cyw30739/repos/CYW30739B2-P5-EVK-01
-	url = https://github.com/Infineon/OT-Matter-BSP.git
+	url = https://github.com/vuljector/OT-Matter-BSP
 	branch = CYW30739B2-P5-EVK-01
 [submodule "CYW30739B2-P5-EVK-02"]
 	path = cyw30739/repos/CYW30739B2-P5-EVK-02
-	url = https://github.com/Infineon/OT-Matter-BSP.git
+	url = https://github.com/vuljector/OT-Matter-BSP
 	branch = CYW30739B2-P5-EVK-02
 [submodule "CYW30739B2-P5-EVK-03"]
 	path = cyw30739/repos/CYW30739B2-P5-EVK-03
-	url = https://github.com/Infineon/OT-Matter-BSP.git
+	url = https://github.com/vuljector/OT-Matter-BSP
 	branch = CYW30739B2-P5-EVK-03
 [submodule "CYW930739M2EVB-01"]
 	path = cyw30739/repos/CYW930739M2EVB-01
-	url = https://github.com/Infineon/OT-Matter-BSP.git
+	url = https://github.com/vuljector/OT-Matter-BSP
 	branch = CYW930739M2EVB-01
 [submodule "CYW930739M2EVB-02"]
 	path = cyw30739/repos/CYW930739M2EVB-02
-	url = https://github.com/Infineon/OT-Matter-BSP.git
+	url = https://github.com/vuljector/OT-Matter-BSP
 	branch = CYW930739M2EVB-02
 [submodule "btsdk-tools"]
 	path = repos/btsdk-tools
-	url = https://github.com/Infineon/btsdk-tools.git
+	url = https://github.com/vuljector/btsdk-tools
 [submodule "btsdk-include"]
 	path = repos/btsdk-include
-	url = https://github.com/Infineon/btsdk-include.git
+	url = https://github.com/vuljector/btsdk-include
 [submodule "display-oled-ssd1306"]
 	path = repos/display-oled-ssd1306
-	url = https://github.com/Infineon/display-oled-ssd1306.git
+	url = https://github.com/vuljector/display-oled-ssd1306
 [submodule "emwin"]
 	path = repos/emwin
-	url = https://github.com/Infineon/emwin.git
+	url = https://github.com/vuljector/emwin
 [submodule "wpan-sdk"]
 	path = repos/wpan-sdk
-	url = https://github.com/Infineon/wpan-sdk.git
+	url = https://github.com/vuljector/wpan-sdk
 	branch = main
